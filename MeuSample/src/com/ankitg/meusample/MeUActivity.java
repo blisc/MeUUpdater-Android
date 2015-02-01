@@ -185,7 +185,7 @@ public class MeUActivity extends Activity implements OnClickListener {
     }
 
     private void sendRegistrationIdToBackend() {
-        String url = "http://104.131.64.14:1337/user/create?registration_id=" + regid;
+        String url = "http://meu-updater.herokuapp.com:80/user/create?registration_id=" + regid;
         HttpGet mRequest = new HttpGet(url);
         DefaultHttpClient client = new DefaultHttpClient();
 
