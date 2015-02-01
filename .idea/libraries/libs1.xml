@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="libs1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/MeU/libs/btserial.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
